@@ -32,7 +32,15 @@ Steps to Increase Model Performance:
 
 ## Summary
 
-The deep learning model showed a reasonable performance with an accuracy of around 73%.  However, further optimization is possible by adjusting the model architecture, and exploring advanced techniques.   The model's accuracy can be improved by experimenting with different activation functions, adding more hidden layers, and adjusting the number of neurons in each layer.
+The deep learning model showed a reasonable performance with an accuracy of around 73%.  
+
+![Alt text](image-1.png)
+
+However, further optimization is possible by adjusting the model architecture, and exploring advanced techniques.   The model's accuracy can be improved by experimenting with different activation functions, adding more hidden layers, and adjusting the number of neurons in each layer.  However even the optimized model also achieved 73%.
+
+![Alt text](image-2.png)
+
+
 
 ## Recommendation
 
